@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="18">
+    <testcase classname="US001 Verify &quot;Projelerimiz&quot; Header" name="TC01_Projelerimiz" time="17.681">
+        <system-out><![CDATA[Given user goes to "tiga" webpage...........................................passed
+Then hovers Projelerimiz....................................................passed
+Then clicks on Projelerimiz.................................................passed
+And verifies the main text..................................................passed
+And scrolls down until the bottom of the page...............................passed
+And verifies Tiga Hakkinda texts............................................passed
+And clicks on twitter logo..................................................passed
+And in the opening page verifies the tiga biography text....................passed
+Then clicks on youtube logo.................................................passed
+And clicks on subscribe.....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

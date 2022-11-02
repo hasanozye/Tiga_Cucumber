@@ -1,0 +1,10 @@
+runners\ParalelTestRunner.class
+stepdefinitions\Hooks.class
+utilities\ReusableMethods$2.class
+stepdefinitions\TigaStepDefinitions.class
+utilities\ReusableMethods$1.class
+runners\TestRunner.class
+utilities\Driver.class
+utilities\ConfigurationReader.class
+pages\TigaPage.class
+utilities\ReusableMethods.class
